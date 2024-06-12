@@ -8,3 +8,5 @@ dependencies:
     - jupyterlab
     - pip:
       - jupyterlab_latex
+      - ipython==8.20.0
+      - manim
