@@ -9,3 +9,9 @@ texlive-publishers
 texlive-science
 texlive-xetex
 cm-super
+curl
+unzip
+libcairo2-dev 
+ffmpeg
+tipa
+libpango1.0-dev
