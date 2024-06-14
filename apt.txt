@@ -1,16 +1,7 @@
-dvipng
-ghostscript
-texlive-fonts-recommended
-texlive-latex-base
-texlive-latex-extra
-texlive-latex-recommended
-texlive-publishers
-texlive-science
-texlive-xetex
-cm-super
 curl
 unzip
 libcairo2-dev 
 ffmpeg
+texlive-latex-extra
 tipa
 libpango1.0-dev
